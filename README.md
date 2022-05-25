@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Giacomoinf
+- 👋 Hi, I’m @Giacomoweb
 - 🌱 I’m currently learning front-end development
 - 💞️ I’m looking to collaborate on agritech project
 - 📫 How to reach me giacomo14inf@gmail.com
